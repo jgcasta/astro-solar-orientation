@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python3 solar_orientation_ed80.py
+python3 solar_orientation.py
 ```
 
 ## Using the application
